@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color: #F9FAFE;
+}
+
+.page {
+    background-color: #ffffff;
+    width: 490px;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 8px 10px rgb(204, 204, 204);
+    margin: 0 auto;
+}
+
+.notifications {
+    margin-top: 10px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(238, 238, 238);
+    border-radius: 8px;
+}
+
+.notifications>img {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.name-box {
+    margin-top: 10px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.name-box>img {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.text {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid rgb(221, 221, 221);
+    width: 415px;
+    margin-left: 50px;
+    font-size: 13px;
+}
+
+.img-message {
+    margin-left: 160px;
+}
